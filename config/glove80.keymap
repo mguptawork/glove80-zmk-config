@@ -200,12 +200,12 @@
 
         layer_Windows {
             bindings = <
-              &trans         &trans         &trans          &trans          &trans                                                                                                          &trans          &trans          &trans          &trans          &trans
-              &trans         &trans         &trans          &trans          &trans         &trans                                                                           &trans          &trans          &trans          &trans          &trans          &trans
-              &trans         &trans         &trans          &trans          &trans         &trans                                                                           &trans          &trans          &trans          &trans          &trans          &trans
-              &trans         &trans         &trans          &trans          &trans         &trans                                                                           &trans          &trans          &trans          &trans          &trans          &trans
-              &trans         &trans         &trans          &trans          &trans         &trans   &kp LCTRL  &kp LSHFT    &lower    &kp RCTRL  &kp RSHFT  &kp RALT        &trans          &trans          &trans          &trans          &trans          &trans
-              &trans     &mt LCTRL HOME     &trans          &trans          &trans                  &kp SPACE  &kp LGUI   &kp LALT    &kp DEL    &kp RET    &kp BSPC                        &trans          &trans          &trans          &trans          &trans
+              &trans       &trans       &trans        &trans        &trans                                                                                                      &trans        &trans        &trans        &trans        &trans
+              &trans       &trans       &trans        &trans        &trans       &trans                                                                           &trans        &trans        &trans        &trans        &trans        &trans
+              &trans       &trans       &trans        &trans        &trans       &trans                                                                           &trans        &trans        &trans        &trans        &trans        &trans
+              &trans       &trans       &trans        &trans        &trans       &trans                                                                           &trans        &trans        &trans        &trans        &trans        &trans
+              &trans       &trans       &trans        &trans        &trans       &trans   &kp LCTRL  &kp LSHFT  &layer_td      &kp RCTRL  &kp RSHFT  &kp RALT     &trans        &trans        &trans        &trans        &trans        &trans
+              &trans   &mt LCTRL HOME   &trans        &trans        &trans                &kp SPACE  &kp LGUI   &kp LALT       &kp DEL    &kp RET    &kp BSPC                   &trans        &trans        &trans        &trans        &trans
             >;
         };
 
